@@ -1,0 +1,17 @@
+.btn-custom-outline-blue {
+    color: #1A4C47; /* Text color */
+    border-color:#0D2623 !important; /* Outline color */
+  }
+ .text-blue{
+    color: #319B90 !important;;
+    
+ }
+ .bg-blue{
+    background:#26736C !important;;
+ }
+ .image{
+    width: 100%;
+    height: 90vh;
+    object-fit: cover;
+
+ }
